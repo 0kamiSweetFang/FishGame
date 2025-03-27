@@ -1,0 +1,3 @@
+- add minigame 10 (eat rock)
+- add minigame 11 (platformer)
+- 

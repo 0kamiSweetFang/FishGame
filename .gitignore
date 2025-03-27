@@ -1,0 +1,12 @@
+build/
+cache/
+Library/
+Temp/
+UserSettings/
+ProjectSettings/
+
+*.bak
+*.sav
+*.icloud
+
+user_settings.gbsres
