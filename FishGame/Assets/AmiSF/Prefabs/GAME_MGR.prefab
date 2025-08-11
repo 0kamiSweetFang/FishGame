@@ -23324,6 +23324,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   miniGames:
+  - {fileID: 972185604333412988, guid: 086003f7a4ce9304e8f46adf3ea3b65e, type: 3}
   - {fileID: 972185604333412988, guid: 8ba5dcf06e0d69f49bda53b654ad7d5a, type: 3}
   - {fileID: 972185604333412988, guid: dbf15f3928fc11c4ab489eb460c24ae2, type: 3}
   - {fileID: 972185604333412988, guid: 2e6edc481bcfe8d4cbe8786690add270, type: 3}

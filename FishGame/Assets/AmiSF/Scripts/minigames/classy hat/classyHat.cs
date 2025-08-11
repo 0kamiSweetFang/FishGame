@@ -52,9 +52,6 @@ public class classyHat : MonoBehaviour
     private void FixedUpdate()
     {
         if (!ghhh) return;
-        {
-            
-        }
         if (!ghhh.inRange)
         {
             groggs[0].SetActive(true);

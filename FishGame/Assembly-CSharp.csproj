@@ -69,6 +69,7 @@
     <Compile Include="Assets\AmiSF\Scripts\minigames\classy hat\classyHat.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
     <Compile Include="Assets\AmiSF\Scripts\minigames\moderate\moderate.cs" />
+    <Compile Include="Assets\AmiSF\Scripts\minigames\bring alcohol\BringAlcohol.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\AmiSF\Scripts\mainMenu.cs" />

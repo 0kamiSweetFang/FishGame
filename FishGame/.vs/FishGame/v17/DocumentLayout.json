@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|c:\\users\\ami\\documents\\fishgame\\fishgame\\assets\\amisf\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|solutionrelative:assets\\amisf\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|c:\\users\\ami\\documents\\fishgame\\fishgame\\assets\\amisf\\scripts\\minigames\\bring alcohol\\bringalcohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|solutionrelative:assets\\amisf\\scripts\\minigames\\bring alcohol\\bringalcohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|c:\\users\\ami\\documents\\fishgame\\fishgame\\assets\\amisf\\scripts\\minigames\\classy hat\\hathat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|solutionrelative:assets\\amisf\\scripts\\minigames\\classy hat\\hathat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "todo.txt",
+              "DocumentMoniker": "C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\Assets\\AmiSF\\todo.txt",
+              "RelativeDocumentMoniker": "Assets\\AmiSF\\todo.txt",
+              "ToolTip": "C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\Assets\\AmiSF\\todo.txt",
+              "RelativeToolTip": "Assets\\AmiSF\\todo.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-01T14:52:52.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hatHat.cs",
+              "DocumentMoniker": "C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\Assets\\AmiSF\\Scripts\\minigames\\classy hat\\hatHat.cs",
+              "RelativeDocumentMoniker": "Assets\\AmiSF\\Scripts\\minigames\\classy hat\\hatHat.cs",
+              "ToolTip": "C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\Assets\\AmiSF\\Scripts\\minigames\\classy hat\\hatHat.cs",
+              "RelativeToolTip": "Assets\\AmiSF\\Scripts\\minigames\\classy hat\\hatHat.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:26:09.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BringAlcohol.cs",
+              "DocumentMoniker": "C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\Assets\\AmiSF\\Scripts\\minigames\\bring alcohol\\BringAlcohol.cs",
+              "RelativeDocumentMoniker": "Assets\\AmiSF\\Scripts\\minigames\\bring alcohol\\BringAlcohol.cs",
+              "ToolTip": "C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\Assets\\AmiSF\\Scripts\\minigames\\bring alcohol\\BringAlcohol.cs",
+              "RelativeToolTip": "Assets\\AmiSF\\Scripts\\minigames\\bring alcohol\\BringAlcohol.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T14:23:58.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
