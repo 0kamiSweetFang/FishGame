@@ -11,6 +11,7 @@ public class BringAlcohol : MonoBehaviour
     public float maxHoldJump;
     public float holdJump;
     public float jumpHoldMod;
+    public float movePower;
 
     void Update()
     {
@@ -37,13 +38,13 @@ public class BringAlcohol : MonoBehaviour
         {
             atJump = 0;
         }
-        if (Input.GetKey(KeyCode.A))
+        if (Input.GetKeyDown(KeyCode.A))
         {
-            rb.AddForce(-jumpPower,0,0);
+            rb.AddForce(-movePower,0,0);
         }
-        else if (Input.GetKey(KeyCode.D))
+        if (Input.GetKeyDown(KeyCode.D))
         {
-            rb.AddForce(jumpPower, 0, 0);
+            rb.AddForce(movePower, 0, 0);
         }
     }
 

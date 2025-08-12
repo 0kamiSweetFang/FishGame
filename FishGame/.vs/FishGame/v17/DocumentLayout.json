@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\assets\\amisf\\scripts\\minigames\\bring alcohol\\bringalcohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|solutionrelative:assets\\amisf\\scripts\\minigames\\bring alcohol\\bringalcohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|c:\\users\\ami\\documents\\fishgame\\fishgame\\assets\\amisf\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|solutionrelative:assets\\amisf\\todo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|c:\\users\\ami\\documents\\fishgame\\fishgame\\assets\\amisf\\scripts\\minigames\\bring alcohol\\bringalcohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|solutionrelative:assets\\amisf\\scripts\\minigames\\bring alcohol\\bringalcohol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|c:\\users\\ami\\documents\\fishgame\\fishgame\\assets\\amisf\\scripts\\minigames\\classy hat\\hathat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\assets\\amisf\\scripts\\minigames\\classy hat\\hathat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10C9036F-2003-B62F-390C-D2F70809A4B3}|Assembly-CSharp.csproj|solutionrelative:assets\\amisf\\scripts\\minigames\\classy hat\\hathat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "todo.txt",
               "DocumentMoniker": "C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\Assets\\AmiSF\\todo.txt",
               "RelativeDocumentMoniker": "Assets\\AmiSF\\todo.txt",
@@ -47,18 +47,17 @@
               "RelativeToolTip": "Assets\\AmiSF\\Scripts\\minigames\\classy hat\\hatHat.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T14:26:09.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T14:26:09.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BringAlcohol.cs",
               "DocumentMoniker": "C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\Assets\\AmiSF\\Scripts\\minigames\\bring alcohol\\BringAlcohol.cs",
               "RelativeDocumentMoniker": "Assets\\AmiSF\\Scripts\\minigames\\bring alcohol\\BringAlcohol.cs",
               "ToolTip": "C:\\Users\\Ami\\Documents\\FishGame\\FishGame\\Assets\\AmiSF\\Scripts\\minigames\\bring alcohol\\BringAlcohol.cs",
               "RelativeToolTip": "Assets\\AmiSF\\Scripts\\minigames\\bring alcohol\\BringAlcohol.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T14:23:58.211Z",
               "EditorCaption": ""

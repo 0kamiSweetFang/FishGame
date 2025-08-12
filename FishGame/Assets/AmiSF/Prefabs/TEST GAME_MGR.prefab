@@ -23285,7 +23285,7 @@ GameObject:
   - component: {fileID: 4896746658658200046}
   - component: {fileID: 3366740736920327146}
   m_Layer: 0
-  m_Name: GAME_MGR
+  m_Name: TEST GAME_MGR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23325,15 +23325,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   miniGames:
   - {fileID: 972185604333412988, guid: 086003f7a4ce9304e8f46adf3ea3b65e, type: 3}
-  - {fileID: 972185604333412988, guid: 8ba5dcf06e0d69f49bda53b654ad7d5a, type: 3}
-  - {fileID: 972185604333412988, guid: dbf15f3928fc11c4ab489eb460c24ae2, type: 3}
-  - {fileID: 972185604333412988, guid: 2e6edc481bcfe8d4cbe8786690add270, type: 3}
-  - {fileID: 972185604333412988, guid: 604d2783e41d0ba479c8ea4286802bbc, type: 3}
-  - {fileID: 972185604333412988, guid: 0fc2d0c2657015041800e74ed9ca02de, type: 3}
-  - {fileID: 972185604333412988, guid: 6922d38a7d0c965488dc70dd2016e077, type: 3}
-  - {fileID: 972185604333412988, guid: 13fbe49fcddb83f4f92e637d6fa05ae9, type: 3}
-  - {fileID: 972185604333412988, guid: 200df393a12a23443bf0dcac7cb3947b, type: 3}
-  - {fileID: 972185604333412988, guid: d0ae757dc01ad8b49a34bcd9ede4a331, type: 3}
   round: 0
   speedMod: 0
   mg: {fileID: 0}
